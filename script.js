@@ -1,7 +1,7 @@
 // Authentication credentials (in a real app, this would be handled server-side)
 const validCredentials = {
-    username: 'admin',
-    password: 'Enterprises'
+    username: 'Chhaya',
+    password: 'bajaj'
 };
 
 
@@ -231,3 +231,4 @@ document.addEventListener('visibilitychange', function() {
         checkAuth();
     }
 });
+
