@@ -14,7 +14,7 @@ A modern, responsive web application with user authentication and navigation das
 ## Login Credentials
 
 - **Username**: `admin`
-- **Password**: `password123`
+- **Password**: `password123******`
 
 ## File Structure
 
