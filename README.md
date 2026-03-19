@@ -8,7 +8,6 @@ A modern, responsive web application with user authentication and navigation das
 - **Responsive Design**: Fully responsive layout that works on desktop, tablet, and mobile devices
 - **Modern UI**: Clean, modern interface with gradient backgrounds and smooth animations
 - **Navigation Dashboard**: Five large square buttons for quick access to popular websites
-- **Session Management**: Automatic session handling with localStorage
 - **Interactive Elements**: Hover effects, click animations, and ripple effects
 
 ## Login Credentials
